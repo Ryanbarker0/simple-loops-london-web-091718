@@ -23,7 +23,6 @@ def times_iterator(number_of_times)
   7.times do
     puts phrase
   end
-  end
 
 end
 
